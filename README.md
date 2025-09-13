@@ -31,7 +31,7 @@ To run this project on your local machine, follow these steps:
 
 1.  **Clone the repository:**
     ```bash
-    git clone (https://github.com/ArizalMuluk/detr-object-detection.git)
+    git clone https://github.com/ArizalMuluk/detr-object-detection.git
     cd detr-object-detection
     ```
 
