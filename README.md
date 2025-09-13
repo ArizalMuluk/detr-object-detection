@@ -33,10 +33,9 @@ To run this project on your local machine, follow these steps:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
-    cd your-repo-name
+    git clone [[https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)](https://github.com/ArizalMuluk/detr-object-detection.git)
+    cd detr-object-detection
     ```
-    *(Ganti `your-username/your-repo-name` dengan URL repository Anda)*
 
 2.  **Create a virtual environment (recommended):**
     ```bash
