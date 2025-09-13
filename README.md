@@ -1,6 +1,6 @@
 # Advanced Object Tracking & Counting with DETR and SORT
 
-![Project Demo GIF](demo.gif)
+![Project Demo GIF](output_video_final_zone-ezgif.com-resize.gif)
 
 *Ganti `demo.gif` dengan nama file GIF Anda setelah diunggah ke repository ini.*
 
