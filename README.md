@@ -1,4 +1,4 @@
-# Advanced Object Tracking & Counting with DETR and SORT
+# AI Object Tracking & Counting for Traffic Analysis
 
 ![Project Demo GIF](./output_video_final_zone-ezgif.com-resize.gif)
 
